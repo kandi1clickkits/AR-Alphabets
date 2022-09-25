@@ -1,0 +1,9 @@
+{
+  "short_name": "EduAR",
+  "name": "EduAR",
+  "icons": [],
+  "start_url": "",
+  "background_color": "#000",
+  "theme_color": "#536878",
+  "display": "standalone"
+}
